@@ -1,5 +1,12 @@
 # HPE-for-HAR
-Human Pose Estimation for multi-view Human Action Recognition 
+Human Pose Estimation for multi-view Human Action Recognition
+
+For more details, please refer to the paper pre-print: [PoseFusion: Multi-View Pose Integration for Comprehensive Action Recognition](./preprint.pdf).
+
+## Contributors
+* Abhijay Singh (UID - 118592619)
+* Tharun Puthanveettil (UID - 119069516)
+
 
 # Dependencies
 The dependencies are listed in requirements.txt. You can install them with the following command:
