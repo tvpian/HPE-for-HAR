@@ -1,5 +1,5 @@
 # HPE-for-HAR
-Human Pose Estimation for multi-view Human Action Recognition
+Human Pose Estimation for Multi-view Human Action Recognition
 
 For more details, please refer to the paper pre-print: [PoseFusion: Multi-View Pose Integration for Comprehensive Action Recognition](./preprint.pdf).
 
